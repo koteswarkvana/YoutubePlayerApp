@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">YoutubeImplementApp</string>
+    <string name="title_activity_youtube">Youtube Player</string>
+</resources>
